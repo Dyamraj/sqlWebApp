@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAppWithSql_new.props" />
+</Project>
